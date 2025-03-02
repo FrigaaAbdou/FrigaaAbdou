@@ -26,4 +26,4 @@ I'm a **Full Stack Developer** and **Web Designer** passionate about creating in
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-https://www.linkedin.com/in/abderrahmane-frigaa-a3016a31a/
+![FrigaaAbdou's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrigaaAbdou&show_icons=true&theme=dark)
