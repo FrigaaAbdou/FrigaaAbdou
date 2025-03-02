@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Frigaa Abderrahmane!
 
-<!--
-**FrigaaAbdou/FrigaaAbdou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** and **Web Designer** passionate about creating innovative and interactive applications. I love merging creativity with technology to build projects that make a difference.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Frontend: **React**, **Tailwind CSS**, **JavaScript**, **HTML**, **CSS**
+- Backend: **Node.js**, **Express.js**, **MongoDB**
+- Other: **Python**, **C**, **C++**, **Git**, **Arduino**
+- Learning: **Japanese (日本語)**, **Machine Learning**, **TypeScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🔐 **auth-mern** – Full-stack authentication with MERN.
+- 📝 **kana-practice** – Interactive tool to master Hiragana & Katakana.
+- 📱 **jap-app-mobile** – A mobile app for Japanese practice.
+- ⚙️ **Mecanique-py** – Physics tools written in Python.
+
+## 🌱 Currently working on
+- Advanced Japanese learning tools.
+- New Full-Stack projects with **Next.js** and **TypeScript**.
+- AI projects in **Python**.
+
+## 📫 How to reach me
+- GitHub: [FrigaaAbdou](https://github.com/FrigaaAbdou)
+- LinkedIn: [Your LinkedIn link here]
+- Email: [Your email here]
+
+---
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
