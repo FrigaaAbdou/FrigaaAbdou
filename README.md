@@ -21,8 +21,8 @@ I'm a **Full Stack Developer** and **Web Designer** passionate about creating in
 
 ## 📫 How to reach me
 - GitHub: [FrigaaAbdou](https://github.com/FrigaaAbdou)
-- LinkedIn: [Your LinkedIn link here]
-- Email: [Your email here]
+- LinkedIn: (https://www.linkedin.com/in/abderrahmane-frigaa-a3016a31a/)
+- Email: (frigaaabdou23@gmail.com)
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
