@@ -41,7 +41,7 @@ I'm a **Full Stack Developer** and **Web Designer** passionate about creating in
 ---
 
 ## 🌐 Portfolio
-[Visit my portfolio](https://your-portfolio-link.com)
+[Visit my portfolio]([https://your-portfolio-link.com](https://frigaa.netlify.app))
 
 ---
 
