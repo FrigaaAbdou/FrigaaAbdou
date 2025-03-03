@@ -40,6 +40,11 @@ I'm a **Full Stack Developer** and **Web Designer** passionate about creating in
 
 ---
 
+## 🌐 Portfolio
+[Visit my portfolio](https://your-portfolio-link.com)
+
+---
+
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=FrigaaAbdou&theme=algolia)
 
@@ -48,7 +53,7 @@ I'm a **Full Stack Developer** and **Web Designer** passionate about creating in
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrigaaAbdou&layout=compact&theme=blueberry)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FrigaaAbdou&theme=blueberry)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FrigaaAbdou)
 
 ---
 
