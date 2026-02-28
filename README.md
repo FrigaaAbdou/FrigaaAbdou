@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Frigaa Abderrahmane!
 
-![FrigaaAbdou's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrigaaAbdou&show_icons=true&theme=blueberry)
-
 ---
 
 ## 🚀 Tech Stack & Tools
